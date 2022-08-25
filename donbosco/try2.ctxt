@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=try2
+comment0.text=\r\n\ Accept\ 2\ numbers\ as\ a\ and\ b\ and\ print\ the\ squares\ of\ a\ and\ b.\r\n\r\n\ @author\ Agnihotra\ Nath\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=void\ main(int,\ int)
+numComments=2
