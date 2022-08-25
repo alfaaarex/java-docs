@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=try1
+comment0.text=\r\n\ Accept\ the\ name\ and\ marks\ of\ 3\ subjects.\ print\ the\ student\ name,\ total\ and\ average.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=void\ main(java.lang.String[])
+numComments=2

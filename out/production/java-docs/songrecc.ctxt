@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=songrecc
+comment0.text=\r\n\ Program\ allows\ you\ to\ get\ a\ random\ song\ recommendation\ for\ a\ particular\ artist.\r\n\r\n\ @author\ Agnihotra\ Nath\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=aa
+comment1.target=void\ main(java.lang.String[])
+numComments=2

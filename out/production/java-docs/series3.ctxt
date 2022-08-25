@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=series3
+comment0.text=\r\n\ s\=\ 5/4\ +\ 5/3\ +\ 5/2\ +\ 5/1.\ This\ is\ needed\ to\ be\ done\ using\ for\ loop.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=aa
+comment1.target=void\ main(java.lang.String[])
+numComments=2
