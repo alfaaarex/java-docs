@@ -5,9 +5,10 @@ This repository has been created to give students, mainly from Class IX and X to
 
 ## Table of Contents
 
+1. [Basic Output Printing](https://github.com/AlfarexGuy2019/java-docs#1-basic-output-printing)
 <hr>
 
-### 1. Basic Output Printing
+### 1. **Basic Output Printing**
 ```java
 //
 // Source code recreated from a .class file by IntelliJ IDEA
@@ -32,4 +33,4 @@ public class try1 {
 }
 ```
 **What is it?**
-In this program, we get to see how a basic program gives us an output (a basic text output).
+<br>In this program, we get to see how a basic program gives us an output (a basic text output).
