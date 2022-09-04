@@ -7,3 +7,6 @@ This repository has been created to give students, mainly from Class IX and X to
 
 <hr>
 
+### 1. Basic Output Printing
+
+**What is it?**
