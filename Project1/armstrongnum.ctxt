@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=armstrongnum
+comment0.text=\n\ WAP\ to\ input\ a\ number\ and\ check\ whether\ the\ number\ is\ a\ armstrong\ number\ or\ not.\n\ (a\ number\ is\ said\ to\ be\ a\ Armstrong\ number\ if\ the\ sum\ of\ the\ cube\ of\ its\ digits\ is\ equal\ to\ the\ \n\ number\ itself.)\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=aa
+comment1.target=void\ main(java.lang.String[])
+numComments=2
